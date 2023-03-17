@@ -9,7 +9,7 @@ msgstr ""
 "POT-Creation-Date: 2022-08-10 21:53+0200\n"
 "PO-Revision-Date: 2022-12-26 13:03+0100\n"
 "Last-Translator: paps\n"
-"Language-Team: scriptmelvin\n"
+"Language-Team: paps\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -132,19 +132,19 @@ msgstr ""
 "\"Ams\"):"
 
 msgid "Could not download location data."
-msgstr "Nie można przetworzyć danych dotyczących miejscowości."
+msgstr "Nie można pobrać danych dotyczących miejscowości."
 
 msgid "Show current weather in infobar"
 msgstr "Aktualna pogoda w InfoBar"
 
 msgid "In infobar"
-msgstr "W InfoBar"
+msgstr "w InfoBar"
 
 msgid "Above infobar"
-msgstr "Powyżej InfoBar"
+msgstr "powyżej InfoBar"
 
 msgid "Top of screen"
-msgstr "Góra ekranu"
+msgstr "góra ekranu"
 
 msgid "Lat"
 msgstr "Szerokość"
@@ -165,10 +165,10 @@ msgid "UV"
 msgstr "UV"
 
 msgid "Display location as"
-msgstr "Pokaż miejscowość jako"
+msgstr "Wyświetl miejscowość jako"
 
 msgid "Show sun power"
-msgstr "Pokaż siła słońca"
+msgstr "Pokaż natężenie promieniowania słonecznego"
 
 msgid "W/m²"
 msgstr "W/m²"
